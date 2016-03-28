@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+	Initializes an empty git repository. Need to tell Git that you want it to be under git version control
+	
