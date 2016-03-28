@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 	Initializes an empty git repository. Need to tell Git that you want it to be under git version control
-	
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	It is different as it is an intermediate stage between working directory and repository. It offers a value in that it allows one to decide what files to commit to repository before actually committing it.
+
+How can you use the staging area to make sure you have one commit per logical change?
+	I can use the staging area to track which are the files that are changed per logical change and verify that it is indeed one commit per logical change.
