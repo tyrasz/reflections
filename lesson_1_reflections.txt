@@ -1,0 +1,7 @@
+Lesson 1 reflections
+How did viewing a diff between two versions help you spot the bug?
+
+Version control allows one to see changes quickly
+A/B testing
+Able to control for what went wrong where
+Able to see where was changed
