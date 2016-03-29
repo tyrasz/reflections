@@ -23,3 +23,9 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 	Email / whatsapp
 	Easier: More instantaneous notification
 	Harder: Need a document tracking system
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	When I am unsure of whether my code can be incorporated into master
+	When I want to test something out
+	Separate: allowing others to test out and decide whether to incorporate
+	Master: Faster and less branches to handle/ manage
