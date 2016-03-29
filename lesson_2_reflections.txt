@@ -12,3 +12,6 @@ What are some situations when branches would be helpful in keeping your history 
 
 How do the diagrams help you visualize the branch structure?
 	They help me understand where branches link to the nearest or most recent or commit in common. They also let me know which commit might not be logged, since they are not on any branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	They incorporate the changes from both versions into a single commit. We represent it this way because commits are the core of git and it still allows us to see the branches before the merge
